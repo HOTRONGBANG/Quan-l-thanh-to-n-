@@ -1,27 +1,25 @@
 🧱 BẢNG MÔ TẢ CÔNG VIỆC – DỰ ÁN WEBSITE BÁN ĐỒ ĂN NHANH
 🧩 Giới thiệu chung
 
-Dự án Website Bán Đồ Ăn Nhanh được xây dựng theo mô hình ASP.NET MVC, sử dụng C# làm ngôn ngữ lập trình và SQL Server để quản lý cơ sở dữ liệu.
-Mục tiêu của nhóm là tạo ra một hệ thống giúp người dùng có thể dễ dàng chọn món, thêm vào giỏ hàng và đặt hàng trực tuyến. Hệ thống cũng cung cấp trang quản trị cho admin để quản lý sản phẩm và người dùng.
-
-Nhóm gồm 4 thành viên, được phân chia công việc rõ ràng theo từng chức năng và bảng dữ liệu, đảm bảo tiến độ và hiệu quả.
+- Dự án Website Bán Đồ Ăn Nhanh được xây dựng theo mô hình ASP.NET MVC, sử dụng C# làm ngôn ngữ lập trình và SQL Server để quản lý  cơ sở dữ liệu.
+- Mục tiêu của nhóm là tạo ra một hệ thống giúp người dùng có thể dễ dàng chọn món, thêm vào giỏ hàng và đặt hàng trực tuyến. Hệ  thống cũng cung cấp trang quản trị cho admin để quản lý sản phẩm và người dùng.
 
 🧑‍💻 Người 1 – Quản trị & Đăng nhập
 
-Người thứ nhất phụ trách phần đăng nhập, đăng ký và quản lý dữ liệu sản phẩm.
+-Người phụ trách phần đăng nhập, đăng ký và quản lý dữ liệu sản phẩm.
 Cụ thể, bạn này chịu trách nhiệm:
 
-Tạo trang đăng nhập / đăng ký với phân quyền người dùng và quản trị viên (Admin/User).
+-Tạo trang đăng nhập / đăng ký với phân quyền người dùng và quản trị viên (Admin/User).
 
-Xây dựng trang quản lý món ăn (thêm, sửa, xóa, cập nhật món ăn).
+-Xây dựng trang quản lý món ăn (thêm, sửa, xóa, cập nhật món ăn).
 
-Quản lý danh mục sản phẩm như: Burger, Gà rán, Đồ uống,…
+-Quản lý danh mục sản phẩm như: Burger, Gà rán, Đồ uống,…
 
-Xử lý phiên đăng nhập (Session) và xác thực người dùng (Authentication).
+-Xử lý phiên đăng nhập (Session) và xác thực người dùng (Authentication).
 
-Về cơ sở dữ liệu, người này tạo các bảng:
+-Về cơ sở dữ liệu, người này tạo các bảng:
 
-Users: thông tin người dùng (ID, Username, Password, Role,...)
+-Users: thông tin người dùng (ID, Username, Password, Role,...)
 
 Categories: danh mục món ăn
 
